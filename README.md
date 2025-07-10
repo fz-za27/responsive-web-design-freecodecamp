@@ -8,6 +8,7 @@ Este repositorio contiene los proyectos desarrollados durante el curso de **Resp
 1. Survey Form - Formulario de encuenta responsivo con HTML y CSS.
 2. Tribute Page - Página de tributo dedicada a una persona o figura destacada.
 3. Technical Documentation Page - Página de documentación técnica adaptativa con media queries.
+4. Product Landing Page - Página de covers con Flexbox y media queries.
 
 ## Objetivo
 
